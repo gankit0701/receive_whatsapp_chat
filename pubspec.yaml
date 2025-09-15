@@ -10,7 +10,7 @@ environment:
 dependencies:
   path_provider: ^2.1.1
   collection: ^1.17.2
-  flutter_archive: ^5.0.0
+  flutter_archive: ^6.0.3
   receive_sharing_intent: ^1.8.0
   uri_to_file: ^1.0.0
 #    git:
